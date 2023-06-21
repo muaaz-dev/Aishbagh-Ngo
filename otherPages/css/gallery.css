@@ -1,0 +1,11 @@
+#gallery{
+    background-image: url('/assets/gallery/galleryMainImg.png');
+    background-size: cover;
+    background-position: center;
+    padding-top: 13rem !important;
+    padding-bottom: 13rem !important;
+}
+
+.gallery-text{
+    background-color: rgb(0 0 0 / 70%);
+}
