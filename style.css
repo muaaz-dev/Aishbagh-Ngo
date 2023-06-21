@@ -8,6 +8,9 @@ body {
     color: rgb(var(--bs-tertiary-color-rgb));
   }
   
+  .carousel-item{
+    height: 40rem !important;
+  }
 
   
   /* CUSTOMIZE THE CAROUSEL
